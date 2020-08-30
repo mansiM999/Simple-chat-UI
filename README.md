@@ -6,3 +6,5 @@ This is a Simple User Interface of a chat application.It consists the following 
 4. Messages for each friend are stored in a list. 
 5. This list can be accessed through user Id. 
 6. Any new messages Can be appended in chat conversation of a friend when a message is entered and send button is clicked.
+
+Web page URL: https://codepen.io/mansim999/pen/dyMRQzw
